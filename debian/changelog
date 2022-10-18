@@ -1,0 +1,12 @@
+ruby-minitest-stub-const (0.4-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Sat, 09 Jan 2021 11:59:50 +0100
+
+ruby-minitest-stub-const (0.4-1) unstable; urgency=medium
+
+  * Initial release (Closes: #782312)
+
+ -- Pirate Praveen <praveen@debian.org>  Fri, 10 Apr 2015 17:09:08 +0530
